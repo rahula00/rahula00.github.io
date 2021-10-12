@@ -121,6 +121,26 @@ content:
             Developed full-stack CRUD web app as an internal tool to deliver corporate-wide anonymous feedback. 
             Utilized virtual machines to deploy, detonate, and analyze malware. 
             Technically demonstrated and quantified the value of CrowdStrike’s security suite and services to potential partners.
+      - layout: left
+        title: Knodemy
+        link: knodemy.com
+        # link_text: boringcompany.com
+        sub_title: Technology Program Intern 
+        caption: June 2017 - August 2018
+        description: # this will include new lines to allow paragraphs
+            Developed curricula and presentations for teaching C, Java, HTML, and Arduino programming for drones. 
+            Taught programming through self-made courses to children of various age levels (10-18) in STEM summer camps. 
+            Designed a new front end to pair with an existing database for a potential new company website. 
+      - layout: left
+        title: City of Tracy
+        link: cityoftracy.org/our-city/departments/engineering
+        # link_text: boringcompany.com
+        sub_title: Engineering Intern
+        caption: June 218 - August 2018
+        description: # this will include new lines to allow paragraphs
+            Assisted in designing and reviewing new and completed city buildings using AutoCAD. 
+            Created excel templates to organize financial costs and contractor bids for completed city projects. 
+            Conducted fieldwork to gather measurements needed to map out potential street repairs.
 
 
 
@@ -140,14 +160,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in computer science and software engineering, my other interests and hobbies are:
+      - Wrenching (on cars)
+      - Lifting
+      - Cooking
 
 # Footer
 footer_show_references: true
