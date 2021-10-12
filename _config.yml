@@ -81,7 +81,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          HTTP Server
+          FPGA game (Basys3 board) using VGA output with physical controls, score counters, and other animations on the board itself.
       - layout: top-middle
         title: HTTP Server
         link: https://github.com/rahula00/HTTPServer
@@ -106,7 +106,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineering Intern
         caption: June 2021 - September 2021
-        description: | # this will include new lines to allow paragraphs
+        description: # this will include new lines to allow paragraphs
             ● Analyzed the effects of various SQL filters on the runtime of big data queries using linear regression
             ● Developed Python scripts to run queries, collect data, and build linear regression models to estimate query runtime
             ● Tested and developed internal tools meant to automate internal database queries using Apache Spark and Golang
