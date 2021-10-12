@@ -157,7 +157,7 @@ content:
         sub_title: BS Computer Science, GPA 3.55/4.00
         
 
-  - title: A Little More About Me
+  - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in computer science and software engineering, my other interests and hobbies are:
