@@ -51,51 +51,18 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Rahul and I am a 4th year student pursuing my MS in CS at UCSC
 
 content:
-  - title: Projects # Title for the section
+
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Corporate Sales Feedback App 
-        link: github.com/rahula00/FeedbackWebApp
-        # link_text: Project Website
-        additional_links:
-          - title:  github
-            icon: fab fa-github
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Full-stack CRUD web app developed as an internal tool to deliver corporate-wide anonymous feedback. Made using Vue.js/Django.
+        title: University of California, Santa Cruz 
+        caption: September 2021 - June 2022
+        sub_title: MS Computer Science, GPA 3.70/4.00
       - layout: top-middle
-        title: Rainbow Road
-        link: https://github.com/rahula00/rainbowroad
-        # link_text: Project Website
-        additional_links:
-          - title:  github
-            icon: fab fa-github
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          FPGA game (Basys3 board) using VGA output with physical controls, score counters, and other animations on the board itself.
-      - layout: top-middle
-        title: HTTP Server
-        link: https://github.com/rahula00/HTTPServer
-        # link_text: Project Website
-        additional_links:
-          - title:  github
-            icon: fab fa-github
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Simple server written in C++ using Berkeley sockets and I/O system calls that can bind to a specified address and port
+        title: University of California, Santa Cruz 
+        caption: September 2018 - June 2021
+        sub_title: BS Computer Science, GPA 3.55/4.00
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -142,20 +109,51 @@ content:
             Created excel templates to organize financial costs and contractor bids for completed city projects. 
             Conducted fieldwork to gather measurements needed to map out potential street repairs.
 
-
-
-  - title: Education # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: University of California, Santa Cruz 
-        caption: September 2021 - June 2022
-        sub_title: MS Computer Science, GPA 3.70/4.00
+        title: Corporate Sales Feedback App 
+        link: github.com/rahula00/FeedbackWebApp
+        # link_text: Project Website
+        additional_links:
+          - title:  github
+            icon: fab fa-github
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Full-stack CRUD web app developed as an internal tool to deliver corporate-wide anonymous feedback. Made using Vue.js/Django.
       - layout: top-middle
-        title: University of California, Santa Cruz 
-        caption: September 2018 - June 2021
-        sub_title: BS Computer Science, GPA 3.55/4.00
-        
+        title: Rainbow Road
+        link: https://github.com/rahula00/rainbowroad
+        # link_text: Project Website
+        additional_links:
+          - title:  github
+            icon: fab fa-github
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          FPGA game (Basys3 board) using VGA output with physical controls, score counters, and other animations on the board itself.
+      - layout: top-middle
+        title: HTTP Server
+        link: https://github.com/rahula00/HTTPServer
+        # link_text: Project Website
+        additional_links:
+          - title:  github
+            icon: fab fa-github
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Simple server written in C++ using Berkeley sockets and I/O system calls that can bind to a specified address and port
 
   - title: More About Me
     layout: text
